@@ -1,2 +1,2 @@
 # notes-4-ios
-## An elegant solution to all your note taking needs.
+## _An elegant solution for all your note taking needs_
